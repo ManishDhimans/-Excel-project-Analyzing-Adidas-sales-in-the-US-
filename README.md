@@ -36,3 +36,21 @@ I am communicating analysis outcomes in a clear and accessible manner.
 ➡️ Amp up online sales with refined strategies, leveraging discounts and digital marketing.
 ➡️ Expand product presence on giants like Amazon and Walmart.
 ➡️ Diversify in-store offerings by introducing exciting new product categories.
+
+#Analyzing Adidas sales in the US(2020)#
+![Analyzing Adidas sales in the US(2020)](https://github.com/ManishDhimans/-Excel-project-Analyzing-Adidas-sales-in-the-US-/assets/153525957/bfb95221-8d9c-4a0d-834a-26b7051a837e)
+
+![Analyzing Adidas sales in the US(2021)](https://github.com/ManishDhimans/-Excel-project-Analyzing-Adidas-sales-in-the-US-/assets/153525957/c782991d-4845-40c6-a0ca-93b7aa661196)
+
+![Analyzing Adidas sales in the US(In-Store)](https://github.com/ManishDhimans/-Excel-project-Analyzing-Adidas-sales-in-the-US-/assets/153525957/a2d34ddb-4b79-4cd8-bf31-f8c6700a0692)
+
+![Analyzing Adidas sales in the US(Outlet)](https://github.com/ManishDhimans/-Excel-project-Analyzing-Adidas-sales-in-the-US-/assets/153525957/86664e11-83ed-406d-931b-7e8bf7816e74)
+
+![Analyzing Adidas sales in the US](https://github.com/ManishDhimans/-Excel-project-Analyzing-Adidas-sales-in-the-US-/assets/153525957/eb743993-9c8b-435b-b472-ac07dce7e44f)
+
+
+
+
+
+
+
