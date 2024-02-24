@@ -1,5 +1,6 @@
 # -Excel-project-Analyzing-Adidas-sales-in-the-US-
 Hello everyone
+
 🌟 Excited to Showcase My 2nd Project With Excel: Analyzing Adidas Sales in the US 📊
 
 >>About The Project
